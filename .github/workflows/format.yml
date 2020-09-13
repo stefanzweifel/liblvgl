@@ -1,8 +1,6 @@
 name: "format code"
 
-on:
-  push:
-  pull_request:
+on: push
 
 jobs:
   format:
